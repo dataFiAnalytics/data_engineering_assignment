@@ -1,0 +1,74 @@
+2023-Jul-29-23:20:25,ETL Job started
+2023-Jul-29-23:20:25,Extract phases started
+2023-Jul-29-23:20:26,Extract phases ended
+2023-Jul-29-23:20:26,Checking USD-to-GBP exchange rate
+2023-Jul-29-23:20:26,USD-to-GBP exchange rate check completed
+2023-Jul-29-23:20:26,Transform job started
+2023-Jul-29-23:20:27,Transform job ended
+2023-Jul-29-23:20:27,Load job started
+2023-Jul-29-23:20:28,Load job ended
+2023-Jul-29-23:20:28,ETL job ended
+2023-Jul-29-23:24:11,ETL Job started
+2023-Jul-29-23:24:11,Extract phases started
+2023-Jul-29-23:24:12,Extract phases ended
+2023-Jul-29-23:24:12,Checking USD-to-GBP exchange rate
+2023-Jul-29-23:24:13,USD-to-GBP exchange rate check completed
+2023-Jul-29-23:24:13,Transform job started
+2023-Jul-29-23:24:13,Transform job ended
+2023-Jul-29-23:24:13,Load job started
+2023-Jul-29-23:24:14,Load job ended
+2023-Jul-29-23:24:14,ETL job ended
+2023-Jul-29-23:25:02,ETL Job started
+2023-Jul-29-23:25:02,Extract phases started
+2023-Jul-29-23:25:03,Extract phases ended
+2023-Jul-29-23:25:03,Checking USD-to-GBP exchange rate
+2023-Jul-29-23:25:04,USD-to-GBP exchange rate check completed
+2023-Jul-29-23:25:04,Transform job started
+2023-Jul-29-23:25:05,Transform job ended
+2023-Jul-29-23:25:05,Load job started
+2023-Jul-29-23:25:05,Load job ended
+2023-Jul-29-23:25:05,ETL job ended
+2023-Jul-29-23:29:42,ETL Job started
+2023-Jul-29-23:29:42,Extract phases started
+2023-Jul-29-23:29:43,Extract phases ended
+2023-Jul-29-23:29:43,Checking USD-to-GBP exchange rate
+2023-Jul-29-23:29:43,USD-to-GBP exchange rate check completed
+2023-Jul-29-23:29:43,Transform job started
+2023-Jul-29-23:29:44,Transform job ended
+2023-Jul-29-23:29:44,Load job started
+2023-Jul-29-23:29:45,Load job ended
+2023-Jul-29-23:29:45,ETL job ended
+2023-Jul-29-23:31:53,ETL Job started
+2023-Jul-29-23:31:53,Extract phases started
+2023-Jul-29-23:31:54,Extract phases ended
+2023-Jul-29-23:31:54,Checking USD-to-GBP exchange rate
+2023-Jul-29-23:32:50,ETL Job started
+2023-Jul-29-23:32:50,Extract phases started
+2023-Jul-29-23:32:51,Extract phases ended
+2023-Jul-29-23:32:51,Transform job started
+2023-Jul-29-23:32:51,Transform job ended
+2023-Jul-29-23:32:51,Load job started
+2023-Jul-29-23:32:52,Load job ended
+2023-Jul-29-23:32:52,ETL job ended
+2023-Jul-29-23:34:20,ETL Job started
+2023-Jul-29-23:34:20,Extract phases started
+2023-Jul-29-23:34:21,Extract phases ended
+2023-Jul-29-23:34:21,Checking USD-to-GBP exchange rate
+2023-Jul-29-23:34:22,USD-to-GBP exchange rate check completed
+2023-Jul-29-23:34:22,Transform job started
+2023-Jul-29-23:34:22,Transform job ended
+2023-Jul-29-23:34:22,Load job started
+2023-Jul-29-23:34:23,Load job ended
+2023-Jul-29-23:34:23,ETL job ended
+2023-Jul-29-23:38:09,Extract phases started
+2023-Jul-29-23:38:11,Extract phases ended
+2023-Jul-29-23:40:23,ETL Job started
+2023-Jul-29-23:40:23,Extract phases started
+2023-Jul-29-23:40:24,Extract phases ended
+2023-Jul-29-23:40:24,Transform job started
+2023-Jul-29-23:40:24,Transform job ended
+2023-Jul-29-23:40:24,Load job started
+2023-Jul-29-23:40:25,Load job ended
+2023-Jul-29-23:40:25,ETL job ended
+2023-Jul-29-23:42:57,Extract phases ended
+2023-Jul-29-23:43:01,Extract phases started
